@@ -29,11 +29,6 @@ tips = [
     "3. Avoid Common Words: Don't use easily guessable information.",
     "4. No Personal Info: Avoid using names, birthdays, or personal details.",
     "5. Use Passphrases: Consider combining multiple words or a sentence.",
-    "6. Unique for Each Account: Don't reuse passwords across multiple accounts.",
-    "7. Regular Updates: Change passwords periodically.",
-    "8. Enable 2FA: Use Two-Factor Authentication where possible.",
-    "9. Be Wary of Phishing: Avoid entering passwords on suspicious sites.",
-    "10. Password Manager: Consider using one for secure and unique passwords."
 ]
 for tip in tips:
     print(tip)
